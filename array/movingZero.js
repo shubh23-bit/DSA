@@ -15,4 +15,4 @@ for(let i=0;i<arr.length;i++){
 for(let i=x;i<arr.length;i++){
     arr[i]=0
 }
-console.log(arr)
+console.log(arr);
